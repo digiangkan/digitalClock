@@ -1,0 +1,28 @@
+.h1 {
+	background: transparent;
+	text-align: center;
+	margin-top: 100px;
+	color: white;
+	font-size: 100px;
+}
+
+.h2 {
+	background: transparent;
+	font-size: 50px;
+	color: gray;
+	
+}	
+
+body{
+	background-color: purple;
+}
+
+#clock{
+	text-align:center;
+	color: white;
+	font-size: 160px;
+}
+
+.btn{
+	text-align: center;
+}
